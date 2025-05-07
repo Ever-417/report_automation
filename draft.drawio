@@ -496,9 +496,6 @@
         <mxCell id="vEGsOa0S0lRkIfyIevNV-26" value="Matadatos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="2754" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vEGsOa0S0lRkIfyIevNV-27" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.permissions;" vertex="1" parent="1">
-          <mxGeometry x="575.1" y="2796" width="62" height="78" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
