@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.2.14" pages="2">
   <diagram name="Análisis_sentimientos " id="JHDFiiOjMU33PO68Ojvq">
-    <mxGraphModel dx="6424" dy="2313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5439" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -410,14 +410,11 @@
         <mxCell id="Ueh3QqwiBTu7aC7_gRvV-157" value="Se analiza el sentimiento del discurso y un análisis de comprensión segmentado por preguntas. Los resultados se almacenan en un almacén de datos, el cual podría ser DynamoDB o un Bucket de s3" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="559.12" y="2070" width="171.77" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="NYVAWFL3vIeZ_MxX7uxH-1" value="" style="line;strokeWidth=2;direction=west;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
-          <mxGeometry x="280.12" y="2475" width="280" height="10" as="geometry" />
+        <mxCell id="NYVAWFL3vIeZ_MxX7uxH-1" value="" style="line;strokeWidth=2;direction=west;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="199.12" y="2435" width="280" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="NYVAWFL3vIeZ_MxX7uxH-2" value="" style="line;strokeWidth=2;direction=west;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
-          <mxGeometry x="280" y="2495" width="280" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="NYVAWFL3vIeZ_MxX7uxH-3" value="" style="line;strokeWidth=2;direction=west;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
-          <mxGeometry x="280" y="2515" width="280" height="10" as="geometry" />
+        <mxCell id="NYVAWFL3vIeZ_MxX7uxH-2" value="" style="line;strokeWidth=2;direction=west;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
+          <mxGeometry x="199" y="2455" width="280" height="10" as="geometry" />
         </mxCell>
         <mxCell id="vEGsOa0S0lRkIfyIevNV-1" value="Procesos de registro de perfil API" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="40" y="2720" width="760" height="360" as="geometry" />
@@ -610,10 +607,10 @@
         <mxCell id="Gf8iZIsfu6nbCNjeVNVL-75" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.videoPlayer;strokeColor=#82b366;strokeColor2=#008cff;strokeColor3=#c4c4c4;textColor=#666666;fillColor2=#008cff;barHeight=30;barPos=20;fillColor=#d5e8d4;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="-1678.25" y="2823" width="300" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Gf8iZIsfu6nbCNjeVNVL-76" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;rotation=105;" vertex="1" parent="1">
+        <mxCell id="Gf8iZIsfu6nbCNjeVNVL-76" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#0050ef;strokeColor=#001DBC;rotation=105;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-1268.25" y="2758" width="10" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Gf8iZIsfu6nbCNjeVNVL-78" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;rotation=75;" vertex="1" parent="1">
+        <mxCell id="Gf8iZIsfu6nbCNjeVNVL-78" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#0050ef;strokeColor=#001DBC;rotation=75;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-1268.25" y="2868" width="10" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Gf8iZIsfu6nbCNjeVNVL-87" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22group%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1530%22%20y%3D%222040%22%20width%3D%22483.3299999999999%22%20height%3D%22410%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22Plano%20ideal%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D50%3BfontFamily%3DComic%20Sans%20MS%3BfillColor%3D%23f8cecc%3BstrokeColor%3D%23b85450%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20x%3D%2222.660000000000082%22%20width%3D%22438%22%20height%3D%2289%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%22%20style%3D%22group%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%222%22%3E%3CmxGeometry%20y%3D%22120%22%20width%3D%22483.3299999999999%22%20height%3D%22290%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%22%20style%3D%22shape%3Dprocess%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BbackgroundOutline%3D1%3Baspect%3Dfixed%3BfillColor%3D%2360a917%3BfontColor%3D%23ffffff%3BstrokeColor%3D%232D7600%3B%22%20vertex%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20width%3D%22483.33%22%20height%3D%22290%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20value%3D%22%22%20style%3D%22shape%3Dactor%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23bac8d3%3BstrokeColor%3D%2323445d%3Baspect%3Dfixed%3B%22%20vertex%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20x%3D%2257%22%20y%3D%2280%22%20width%3D%2260%22%20height%3D%2290%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227%22%20value%3D%22%22%20style%3D%22shape%3Dactor%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23d0cee2%3BstrokeColor%3D%2356517e%3Baspect%3Dfixed%3B%22%20vertex%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20x%3D%22160%22%20y%3D%2280%22%20width%3D%2260%22%20height%3D%2290%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%228%22%20value%3D%22%22%20style%3D%22shape%3Dactor%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23fad9d5%3BstrokeColor%3D%23ae4132%3Baspect%3Dfixed%3B%22%20vertex%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20x%3D%22264%22%20y%3D%2280%22%20width%3D%2260%22%20height%3D%2290%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%229%22%20value%3D%22%22%20style%3D%22shape%3Dactor%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23e1d5e7%3BstrokeColor%3D%239673a6%3Baspect%3Dfixed%3B%22%20vertex%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20x%3D%22367%22%20y%3D%2280%22%20width%3D%2260%22%20height%3D%2290%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;aspect=fixed;" vertex="1" parent="1">
